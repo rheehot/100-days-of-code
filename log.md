@@ -1,13 +1,13 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code Flutter - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Maret 30, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Belajar tentang Flexible dan fittedbox
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** widget fittedBox ini keren, bisa mengecilkan content dengan parentnya
+
+**Link to work:** [Expenses App](https://github.com/triyono777/expenses_app.git)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
