@@ -1,7 +1,7 @@
 # 100 Days Of Code Flutter - Log
 
 
-### Day 1: Rabu 12 Maret, 2020
+### Day 2: Rabu 12 Maret, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
 
@@ -15,7 +15,7 @@
 2. [Kursus Udemy](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content)
 
 
-### Day 0: Selasa 11 Maret, 2020
+### Day 1: Selasa 11 Maret, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
 
