@@ -10,7 +10,7 @@
 
 **Thoughts:**  Hari ini ngebut beberapa video , tapi tampaknya ga bagus belajar dengan terburu-buru,malah pusing,  slow aja yang penting masuk, dan berprogress tiap hari nya,
 
-**Link to work:** 
+**Links to work:** 
 1. [Expenses App](https://github.com/triyono777/expenses_app.git)
 2. [Kursus Udemy](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content)
 
@@ -24,7 +24,7 @@
 
 **Thoughts:** widget fittedBox ini keren, bisa mengecilkan content dengan parentnya, 
 
-**Link to work:** 
+**Links to work:** 
 1. [Expenses App](https://github.com/triyono777/expenses_app.git)
 2. [Kursus Udemy](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content)
 
