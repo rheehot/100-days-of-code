@@ -1,6 +1,21 @@
 # 100 Days Of Code Flutter - Log
 
 
+### Day 3: kamis 13 Maret, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: Belajar tentang adaptive dan responsive layout, use mediaquery of context, appBar bisa dibuat sebagai variabel (objek) yang didalamnya ada prefred size, termasuk tinggi dariappBar itu sendiri, padding, statusbar,
+
+**Thoughts:**  Mantap ini bisa responsive tergantung dari device mau handphone, tablet, maupun buat web nantinya
+
+**Links to work:** 
+1. [Expenses App](https://github.com/triyono777/expenses_app.git)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content) Materi ke 119
+
+
+
 ### Day 2: Rabu 12 Maret, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
