@@ -1,5 +1,18 @@
 # 100 Days Of Code Flutter - Log
 
+### Day 4: Jumat 14 Maret, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: masih Belajar tentang adaptive dan responsive layout, menggunakan layout builder, didalam nya bisa menggunakan contrains ( mempunyai property maxheigh n min height)
+
+**Thoughts:**  ini bisa jadi pilihan yang lain , selain mediaquery of context
+
+**Links to work:** 
+1. [Expenses App](https://github.com/triyono777/expenses_app.git)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content) Materi ke 122
+
 
 ### Day 3: kamis 13 Maret, 2020
 
