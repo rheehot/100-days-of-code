@@ -1,5 +1,42 @@
 # 100 Days Of Code Flutter - Log
 
+
+### Day 5: Sabtu 15 Maret, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+- masih Belajar tentang adaptive dan responsive layout, 
+- mengecek orientation menggunakan Mediaquery of context orientation, 
+- untuk mengetahui ukuran padding bawah menggunakan MediaQuery.of(context).viewInsets.bottom
+- pengganti itenari ( kondisi ? ... : ...) bisa menggunakan if (kondisi) tanpa tanda kurung
+- contoh = 
+```dart
+
+    final isLandskape =
+        MediaQuery.of(context).orientation == Orientation.landscape;
+        
+        .....
+            if (!isLandskape)
+              Container(
+                  height: (MediaQuery.of(context).size.height -
+                          appBar.preferredSize.height -
+                          MediaQuery.of(context).padding.top) *
+                      0.3,
+                  child: Chart(_recentTransaction)),
+            if (!isLandskape) txListWidget,
+            ....
+```
+
+
+
+**Thoughts:**  ternyata banyak cara untuk membuat responsive dan adaptive, if else juga bermacam2 bentuknya
+
+**Links to work:** 
+1. [Expenses App](https://github.com/triyono777/expenses_app.git)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content) Materi ke 125
+
 ### Day 4: Jumat 14 Maret, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
