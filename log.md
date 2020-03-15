@@ -1,5 +1,19 @@
 # 100 Days Of Code Flutter - Log
 
+### Day 6: Minggu 16 Maret, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+- masih Belajar tentang adaptive dan responsive layout, 
+- belajar tentang adaptive untuk Ios dan Android seperti widget Switch.adaptive, CupertinoPageScaffold , CupertinoIcons
+
+**Thoughts:**  belum melihat hasil nya karena belum punya Mac :) , 
+
+**Links to work:** 
+1. [Expenses App](https://github.com/triyono777/expenses_app.git)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content) Materi ke 129
 
 ### Day 5: Sabtu 15 Maret, 2020
 
