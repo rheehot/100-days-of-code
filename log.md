@@ -1,6 +1,22 @@
 # 100 Days Of Code Flutter - Log
 
-### Day 7: Senin 17 Maret, 2020
+### Day 8: Selasa 17 Maret, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+- finishing Belajar tentang adaptive dan responsive layout basic, 
+- tambahan membuat custom widget, atau memecah app menjadi bagian kecil2 sehingga mudah dalam maintenance and scallable
+
+**Thoughts:**  hari ini belajar materi dulu belum ada praktek 
+
+**Links to work:** 
+1. [Expenses App](https://github.com/triyono777/expenses_app.git)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content) Materi ke 137
+
+
+### Day 7: Senin 16 Maret, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
 
@@ -15,7 +31,7 @@
 1. [Expenses App](https://github.com/triyono777/expenses_app.git)
 2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content) Materi ke 130
 
-### Day 6: Minggu 16 Maret, 2020
+### Day 6: Minggu 15 Maret, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
 
@@ -30,7 +46,7 @@
 1. [Expenses App](https://github.com/triyono777/expenses_app.git)
 2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content) Materi ke 129
 
-### Day 5: Sabtu 15 Maret, 2020
+### Day 5: Sabtu 14 Maret, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
 
@@ -66,7 +82,7 @@
 1. [Expenses App](https://github.com/triyono777/expenses_app.git)
 2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content) Materi ke 125
 
-### Day 4: Jumat 14 Maret, 2020
+### Day 4: Jumat 13 Maret, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
 
@@ -80,7 +96,7 @@
 2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content) Materi ke 122
 
 
-### Day 3: kamis 13 Maret, 2020
+### Day 3: kamis 12 Maret, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
 
@@ -95,7 +111,7 @@
 
 
 
-### Day 2: Rabu 12 Maret, 2020
+### Day 2: Rabu 11 Maret, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
 
@@ -109,7 +125,7 @@
 2. [Kursus Udemy](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content)
 
 
-### Day 1: Selasa 11 Maret, 2020
+### Day 1: Selasa 10 Maret, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
 
