@@ -1,5 +1,20 @@
 # 100 Days Of Code Flutter - Log
 
+
+### Day 9: Rabu 18 Maret, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+- Teori about Build context, state, rendering , how flutter works
+
+**Thoughts:**   ga ada apa2 , terima saja materinya, hari ini ga ada ngoding kursus, tapi masih tetep ngoding flutter dengan project lain
+
+**Links to work:** 
+1. [Expenses App](https://github.com/triyono777/expenses_app.git)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content) Materi ke 137
+
 ### Day 8: Selasa 17 Maret, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
