@@ -1,6 +1,21 @@
 # 100 Days Of Code Flutter - Log
 
 
+
+### Day 10: Kamis 19 Maret, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+- learan about best practice 'Const' , make  build metode, some clean code
+
+**Thoughts:**   try to make good code, readable maiintenable, for me and other team
+
+**Links to work:** 
+1. [Expenses App](https://github.com/triyono777/expenses_app.git)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content) Materi ke 143
+
 ### Day 9: Rabu 18 Maret, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
