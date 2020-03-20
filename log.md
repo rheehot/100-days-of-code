@@ -8,7 +8,7 @@
 
 
 **Today's Progress**: 
-- learan about Flutter Lifecycle, call initstate, didUpdatedWidget, dispose, 
+- learn about Flutter Lifecycle, call initstate, didUpdatedWidget, dispose, 
 
 **Thoughts:**   yangs sering digunakan initState
 
