@@ -14,7 +14,7 @@
 
 **Links to work:** 
 1. [Expenses App](https://github.com/triyono777/expenses_app.git)
-2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content) Materi ke 143
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content) Materi ke 145
 
 ### Day 10: Kamis 19 Maret, 2020
 
