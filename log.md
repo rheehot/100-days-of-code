@@ -1,6 +1,20 @@
 # 100 Days Of Code Flutter - Log
 
 
+### Day 12: Sabtu 21 Maret, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+- learn about Key, UniqueKey, ValueKey, when to use the Keys
+
+**Thoughts:**   Ini penting saat men triger sesuatu tapi tidak ke trigger, 
+
+**Links to work:** 
+1. [Expenses App](https://github.com/triyono777/expenses_app.git)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content) Materi ke 152
+
 
 ### Day 11: Jumat 20 Maret, 2020
 
