@@ -1,6 +1,20 @@
 # 100 Days Of Code Flutter - Log
 
 
+### Day 14: Senin 23 Maret, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+- Learning about navigating between screen , push, pop, stack concept, pushnamed, pushnamed with argument, send data to next screen,
+
+**Thoughts:**   i really learning a lot  today, nice .....
+
+**Links to work:** 
+1. [Meals App](https://github.com/triyono777/mealsAppUdemy)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content) Materi ke 156
+
 ### Day 13: Minggu 22 Maret, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
