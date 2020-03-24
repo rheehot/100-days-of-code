@@ -1,5 +1,18 @@
 # 100 Days Of Code Flutter - Log
 
+### Day 15: Selasa 24 Maret, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+- Learning about Navigation named route with static const, adding model, enum, function in List (like where, contains),
+
+**Thoughts:**   Today is amazing , i'm a lot learning something new , and is fun :)
+
+**Links to work:** 
+1. [Meals App](https://github.com/triyono777/mealsAppUdemy)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content) Materi ke 164
 
 ### Day 14: Senin 23 Maret, 2020
 
@@ -13,7 +26,7 @@
 
 **Links to work:** 
 1. [Meals App](https://github.com/triyono777/mealsAppUdemy)
-2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content) Materi ke 156
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content) Materi ke 161
 
 ### Day 13: Minggu 22 Maret, 2020
 
