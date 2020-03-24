@@ -12,7 +12,7 @@
 
 **Links to work:** 
 1. [Meals App](https://github.com/triyono777/mealsAppUdemy)
-2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content) Materi ke 164
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 164
 
 ### Day 14: Senin 23 Maret, 2020
 
