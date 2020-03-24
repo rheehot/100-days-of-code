@@ -224,3 +224,18 @@
 1. [Expenses App](https://github.com/triyono777/expenses_app.git)
 2. [Kursus Udemy](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/14951102#content)
 
+
+
+
+<details><summary>My Note</summary>
+<p>
+This is my first 100-days-of-coding
+    
+#### sample hidden code blocks!
+
+```dart
+print("hello world!");
+```
+
+</p>
+</details>
