@@ -1,5 +1,19 @@
 # 100 Days Of Code Flutter - Log
 
+### Day 17: Kamis 26 Maret, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+- Learning about Navigator, unknowing route, generateroute,firstWhere on list, 
+
+**Thoughts:**   firstWhere, interensting
+
+**Links to work:** 
+1. [Meals App](https://github.com/triyono777/mealsAppUdemy)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 168
+
 ### Day 16: Rabu 25 Maret, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
