@@ -1,5 +1,20 @@
 # 100 Days Of Code Flutter - Log
 
+
+### Day 18: Jumat 27 Maret, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+because there is a problem with the internet I can't watch udemy videos online, but a little practice with routename, form validation
+
+**Thoughts:**   huh...
+
+**Links to work:** 
+1. [Meals App](https://github.com/triyono777/mealsAppUdemy)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 168
+
 ### Day 17: Kamis 26 Maret, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
