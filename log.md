@@ -1,13 +1,29 @@
 # 100 Days Of Code Flutter - Log
 
 
+
+### Day 21: Senin 30 Maret, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Learning about SwitchListTile,some logic, Mapping list,
+
+**Thoughts:**   some exercise 
+
+**Links to work:** 
+1. [Meals App](https://github.com/triyono777/mealsAppUdemy)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 177
+
+
 ### Day 20: Minggu 29 Maret, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
 
 
 **Today's Progress**: 
-Learning about Drawier, custom drawer,push and replace route, send data on pop
+Learning about Drawier, custom drawer,push and replace route, send data on pop , didChangedDepedency
 
 **Thoughts:**   my internet still not good,
 
