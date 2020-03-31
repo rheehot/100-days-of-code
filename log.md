@@ -1,6 +1,20 @@
 # 100 Days Of Code Flutter - Log
 
 
+### Day 22: Selasa 31 Maret, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Learning about List whereAt, firstWhere , n implement some send data to another screen, constructor, and some logic
+
+**Thoughts:**   some exercise 
+
+**Links to work:** 
+1. [Meals App](https://github.com/triyono777/mealsAppUdemy)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 178
+
 
 ### Day 21: Senin 30 Maret, 2020
 
