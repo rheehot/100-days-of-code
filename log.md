@@ -1,6 +1,19 @@
 # 100 Days Of Code Flutter - Log
 
 
+### Day 24: Kamis 2 April, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Implement form previous lecture, like make model, navigator between screen, constructor ,n another new widget to try, Gridview.buider, Grid.tile, GridTileBar, and send data via Navigator arguments,
+
+**Thoughts:**   i like to practice with something that i already know 
+
+**Links to work:** 
+1. [Shop App](https://github.com/triyono777/shopAppUdemy)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 189
 
 ### Day 23: Rabu 1 April, 2020
 
