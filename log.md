@@ -1,5 +1,18 @@
 # 100 Days Of Code Flutter - Log
 
+### Day 25: Jumat 3 April, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Today learning about provider, change notifier, mixin  "with" ,more about "three dots"
+
+**Thoughts:**   Thats was more advance  than previous lecture 
+
+**Links to work:** 
+1. [Shop App](https://github.com/triyono777/shopAppUdemy)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 193
 
 ### Day 24: Kamis 2 April, 2020
 
