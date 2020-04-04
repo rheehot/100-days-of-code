@@ -1,7 +1,7 @@
 # 100 Days Of Code Flutter - Log
 
 
-### Day 25: Sabtu 4 April, 2020
+### Day 26: Sabtu 4 April, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
 
