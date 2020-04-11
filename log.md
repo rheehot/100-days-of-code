@@ -8,7 +8,7 @@
 **Today's Progress**: 
 Today imolements about drawer, send data with argument,intl package, Date time
 
-**Thoughts:**  hari ini sedikit lebih paham provider 
+**Thoughts:**  Practicing
 
 **Links to work:** 
 1. [Shop App](https://github.com/triyono777/shopAppUdemy)
