@@ -1,6 +1,20 @@
 # 100 Days Of Code Flutter - Log
 
-### Day 34: Sabtu 11 April, 2020
+### Day 35: Senin 13 April, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Today implements some provider, constructor, send data to other screen, and wraping up about course,
+
+**Thoughts:**  Practicing
+
+**Links to work:** 
+1. [Shop App](https://github.com/triyono777/shopAppUdemy)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 213
+
+### Day 34: Sabtu 12 April, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
 
