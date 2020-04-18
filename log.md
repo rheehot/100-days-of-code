@@ -1,5 +1,19 @@
 # 100 Days Of Code Flutter - Log
 
+### Day 40: Sabtu 18 April, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Today implements validating form, focusnode ,addlistener, about dispose and implement some constructor,
+
+**Thoughts:**  not much today because of work
+
+**Links to work:** 
+1. [Shop App](https://github.com/triyono777/shopAppUdemy)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 223
+
 ### Day 39: Jumat 17 April, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
