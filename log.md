@@ -1,5 +1,19 @@
 # 100 Days Of Code Flutter - Log
 
+### Day 41 & 42: Senin 19 April, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Today still in form, implements onsaved, onsubmited, thinks about globalkey, validate 
+
+**Thoughts:**  yesterday i just fall asleep before i start my 100daysofcode, n today wakeup early n doing 100daysofcode twice, 
+
+**Links to work:** 
+1. [Shop App](https://github.com/triyono777/shopAppUdemy)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 224
+
 ### Day 40: Sabtu 18 April, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
