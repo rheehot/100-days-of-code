@@ -1,12 +1,13 @@
 # 100 Days Of Code Flutter - Log
 
-### Day 41 & 42: Senin 19 April, 2020
+### Day 41 & 42: Selasa 20 April, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
 
 
 **Today's Progress**: 
-Today still in form, implements onsaved, onsubmited, thinks about globalkey, validate 
+Today still in form, implements onsaved, onsubmited, thinks about globalkey, validate ,
+2nd learning more deeper about validator,startWith, endsWith, contains, and new about doube.tryparse
 
 **Thoughts:**  yesterday i just fall asleep before i start my 100daysofcode, n today wakeup early n doing 100daysofcode twice, 
 
