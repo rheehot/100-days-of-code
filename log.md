@@ -1,6 +1,20 @@
 # 100 Days Of Code Flutter - Log
 
-### Day 41 & 42: Selasa 20 April, 2020
+### Day 43: Selas 21 April, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Today learn about didChangeDependencies, to place Modalroute arguments, and some practicing 
+
+**Thoughts:**  practicing
+
+**Links to work:** 
+1. [Shop App](https://github.com/triyono777/shopAppUdemy)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 228
+
+### Day 41 & 42: Senin 20 April, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
 
