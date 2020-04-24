@@ -1,12 +1,13 @@
 # 100 Days Of Code Flutter - Log
 
-### Day 45: Kamais 23 April, 2020
+### Day 46: Jumat 24 April, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
 
 
 **Today's Progress**: 
-Today prepare for new section HTTP request, with firebase,
+Today how to use lib http , http.post,json.encode, 
+
 
 **Thoughts:**  practicing
 
@@ -14,13 +15,14 @@ Today prepare for new section HTTP request, with firebase,
 1. [Shop App](https://github.com/triyono777/shopAppUdemy)
 2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 236
 
-### Day 46: Jumat 24 April, 2020
+### Day 45: Kamis 23 April, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
 
 
 **Today's Progress**: 
-Today use lib http , http.post,json.encode, 
+Today prepare for new section HTTP request, with firebase,
+
 
 **Thoughts:**  practicing
 
