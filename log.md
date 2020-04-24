@@ -14,6 +14,20 @@ Today prepare for new section HTTP request, with firebase,
 1. [Shop App](https://github.com/triyono777/shopAppUdemy)
 2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 236
 
+### Day 46: Jumat 24 April, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Today use lib http , http.post,json.encode, 
+
+**Thoughts:**  practicing
+
+**Links to work:** 
+1. [Shop App](https://github.com/triyono777/shopAppUdemy)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 235
+
 ### Day 44: Rabu 22 April, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
