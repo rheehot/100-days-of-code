@@ -1,5 +1,20 @@
 # 100 Days Of Code Flutter - Log
 
+### Day 47: Sabtu 25 April, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Today lear about connect to firebase, post to firebase 
+
+
+**Thoughts:**  practicing
+
+**Links to work:** 
+1. [Shop App](https://github.com/triyono777/shopAppUdemy)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 237
+
 ### Day 46: Jumat 24 April, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
