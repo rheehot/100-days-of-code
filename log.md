@@ -1,6 +1,22 @@
 # 100 Days Of Code Flutter - Log
 
-### Day 48-49: Minggu-Senin 25 April, 2020
+
+### Day 50: Selasa 28 April, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Today learn about async ,await, try catch, finnaly
+
+
+**Thoughts:**  wow its already 50 days...
+
+**Links to work:** 
+1. [Shop App](https://github.com/triyono777/shopAppUdemy)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 241
+
+### Day 48-49: Minggu-Senin 26-27 April, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
 
