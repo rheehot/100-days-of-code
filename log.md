@@ -1,6 +1,22 @@
 # 100 Days Of Code Flutter - Log
 
 
+### Day 51: Rabu 29 April, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Today learn http.get ,Future.delayed(Duration.zero), didChangeDependencies , for excecution initstate
+
+
+**Thoughts:**  that great for initstate works
+
+**Links to work:** 
+1. [Shop App](https://github.com/triyono777/shopAppUdemy)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 242
+
+
 ### Day 50: Selasa 28 April, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
