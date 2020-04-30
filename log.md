@@ -1,6 +1,6 @@
 # 100 Days Of Code Flutter - Log
 
-### Day 52: Rabu 29 April, 2020
+### Day 52: Kamis 30 April, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
 
