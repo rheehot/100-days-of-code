@@ -1,12 +1,28 @@
 # 100 Days Of Code Flutter - Log
 
+
+### Day 53: Jumat 1 Mei, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Today  learn about fetching data from firebasae, path data, and work with refresh indicator
+
+
+**Thoughts:**  that great for initstate works
+
+**Links to work:** 
+1. [Shop App](https://github.com/triyono777/shopAppUdemy)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 245
+
 ### Day 52: Kamis 30 April, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
 
 
 **Today's Progress**: 
-Today Today learn about fetching data from firebasae
+Today  learn about fetching data from firebasae
 
 
 **Thoughts:**  that great for initstate works
