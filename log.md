@@ -1,5 +1,20 @@
 # 100 Days Of Code Flutter - Log
 
+### Day 54: Sabtu 2 Mei, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Today  learn about http.delete , HttpException, customHttpException, implements snackbar
+
+
+**Thoughts:**  that great for customHttpException
+
+**Links to work:** 
+1. [Shop App](https://github.com/triyono777/shopAppUdemy)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 247
+
 
 ### Day 53: Jumat 1 Mei, 2020
 
