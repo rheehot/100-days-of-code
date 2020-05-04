@@ -1,7 +1,7 @@
 # 100 Days Of Code Flutter - Log
 
 
-### Day 55: Senin 4 Mei, 2020
+### Day 56: Senin 4 Mei, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
 
