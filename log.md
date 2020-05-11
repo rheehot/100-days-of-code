@@ -1,5 +1,20 @@
 # 100 Days Of Code Flutter - Log
 
+### Day 62-63: Minggu-senin 10-11 Mei, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Today learn firebase authetication login with email n password,implement handling error
+
+
+**Thoughts:**  mungkin saya harus mengganti jadwal 100days_of_code menjadi pagi
+
+**Links to work:** 
+1. [Shop App](https://github.com/triyono777/shopAppUdemy)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 261
+
 ### Day 61: Sabtu 9 Mei, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
