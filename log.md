@@ -6,7 +6,7 @@
 
 
 **Today's Progress**: 
-Today implement firebasse folder,rules,implements consumer, make funtion logout  , 
+Today implement firebasse folder,rules,implements consumer, orderBy on flutter, make function logout  , 
 
 
 **Thoughts:**  -
