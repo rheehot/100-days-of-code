@@ -1,4 +1,19 @@
 # 100 Days Of Code Flutter - Log
+
+### Day 72: Rabu 20 Mei, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Today learn about make custom transation and, change default pagetransation on root
+
+
+**Thoughts:**   
+
+**Links to work:** 
+1. [Shop App](https://github.com/triyono777/shopAppUdemy)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 288
 ### Day 71: Selasa 19 Mei, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
