@@ -1,5 +1,20 @@
 # 100 Days Of Code Flutter - Log
 
+### Day 73: Kamis 21 Mei, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Today new projek from course , "great place' prepare projek, like model, provider, screen
+
+
+**Thoughts:**   
+
+**Links to work:** 
+1. [Shop App](https://github.com/triyono777/great_places)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 289
+
 ### Day 72: Rabu 20 Mei, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
