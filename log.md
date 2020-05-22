@@ -12,7 +12,7 @@ Today new projek from course , "great place' prepare projek, like model, provide
 **Thoughts:**   
 
 **Links to work:** 
-1. [Shop App](https://github.com/triyono777/great_places)
+1. [Great Place App](https://github.com/triyono777/great_places)
 2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 289
 
 ### Day 72: Rabu 20 Mei, 2020
