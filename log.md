@@ -1,5 +1,21 @@
 # 100 Days Of Code Flutter - Log
 
+
+### Day 75: Sabtu 23 Mei, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Today learn about imagepicker, path provider, and how to implements
+
+
+**Thoughts:**   
+
+**Links to work:** 
+1. [Great Place App](https://github.com/triyono777/great_places)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 290
+
 ### Day 74: Jumat 22 Mei, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
