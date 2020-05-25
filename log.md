@@ -6,7 +6,7 @@
 
 
 **Today's Progress**: 
-Today learn about sqlite,pget data and implements some ui
+Today learn about sqlite,get data and implements some ui
 
 
 **Thoughts:**   
