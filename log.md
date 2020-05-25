@@ -1,5 +1,19 @@
 # 100 Days Of Code Flutter - Log
 
+### Day 77: Senin 25 Mei, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Today learn about sqlite,pget data and implements some ui
+
+
+**Thoughts:**   
+
+**Links to work:** 
+1. [Great Place App](https://github.com/triyono777/great_places)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 297
 
 ### Day 76: Minggu 24 Mei, 2020
 
