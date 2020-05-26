@@ -1,5 +1,20 @@
 # 100 Days Of Code Flutter - Log
 
+### Day 79: Rabu 27 Mei, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Today learn Select map, goolemaps plugin from official flutter, markers, pick location
+
+
+**Thoughts:**   
+
+**Links to work:** 
+1. [Great Place App](https://github.com/triyono777/great_places)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 301
+
 ### Day 78: Selasa 26 Mei, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
