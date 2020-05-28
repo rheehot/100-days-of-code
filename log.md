@@ -1,5 +1,20 @@
 # 100 Days Of Code Flutter - Log
 
+### Day 81: Jumat 29 Mei, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Today implements modalroute,setings ( navigator with arguments) , implements provider, fetch data, and some ui, preprare for next section " firebase'
+
+
+**Thoughts:**   
+
+**Links to work:** 
+1. [Great Place App](https://github.com/triyono777/great_places)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 307
+
 ### Day 80: Kamis 28 Mei, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
