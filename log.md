@@ -1,5 +1,21 @@
 # 100 Days Of Code Flutter - Log
 
+
+### Day 88: Jumat 5 Juni, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Today learn about unfocus, order reverse onlist view,add timestamp with firebase, orderby,
+
+
+**Thoughts:**   
+
+**Links to work:** 
+1. [flutter chat](https://github.com/triyono777/flutter_chat)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 324
+
 ### Day 87: Kamis 4 Juni, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
