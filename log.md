@@ -1,5 +1,21 @@
 # 100 Days Of Code Flutter - Log
 
+
+### Day 92: Selasa 9 Juni, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Today learn firebase storage,put file, and use image quality on image picker
+
+
+**Thoughts:**   
+
+**Links to work:** 
+1. [flutter chat](https://github.com/triyono777/flutter_chat)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 333
+
 ### Day 91: Senin 8 Juni, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
