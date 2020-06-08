@@ -1,5 +1,20 @@
 # 100 Days Of Code Flutter - Log
 
+### Day 91: Senin 8 Juni, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Today learn to implements image picker,vidation file, some logic
+
+
+**Thoughts:**   
+
+**Links to work:** 
+1. [flutter chat](https://github.com/triyono777/flutter_chat)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 330
+
 ### Day 90: Minggu 7 Juni, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
