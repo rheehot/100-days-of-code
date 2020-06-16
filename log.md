@@ -13,7 +13,7 @@ Today learn firebase notification setup and fix some error
 
 **Links to work:** 
 1. [flutter chat](https://github.com/triyono777/flutter_chat)
-2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 335
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 338
 
 ### Day 94: Jumat 12 Juni, 2020
 
