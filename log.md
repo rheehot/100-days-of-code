@@ -1,5 +1,20 @@
 # 100 Days Of Code Flutter - Log
 
+### Day 97: Jumat 19 Juni, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+
+
+**Today's Progress**: 
+Today learn about firebase function oncreate, firebase deploy, n little node.js
+
+
+**Thoughts:**   
+
+**Links to work:** 
+1. [flutter chat](https://github.com/triyono777/flutter_chat)
+2. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 342
+
 ### Day 96: Kamis 18 Juni, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
