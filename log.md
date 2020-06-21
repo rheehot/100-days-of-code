@@ -1,6 +1,6 @@
 # 100 Days Of Code Flutter - Log
 
-### Day 98: Jumat 20 Juni, 2020
+### Day 98: Sabtu 20 Juni, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
 
