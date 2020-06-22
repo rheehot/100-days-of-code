@@ -1,5 +1,20 @@
 # 100 Days Of Code Flutter - Log
 
+### Day 100: Senin 23 Juni, 2020
+
+**Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
+![Sertifikat](https://dev-to-uploads.s3.amazonaws.com/i/ursi2s6tszxmkav8t5ui.jpg)
+
+**Today's Progress**: 
+Today learn Methode channel , is to akses code from java or kotlin
+
+
+**Thoughts:**   
+
+**Links to work:** 
+
+1. Kursus Udemy  [learn-flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Materi ke 352
+
 ### Day 99: Senin 22 Juni, 2020
 
 **Goal**: Complete  [flutter-dart-to-build-ios-android-apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) from Udemy
