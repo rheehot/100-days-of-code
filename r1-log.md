@@ -1,11 +1,12 @@
 # #100DaysOfCode Log - Round 1 - [Triyono]
 # Node.js 
-[link projek](https://github.com/triyono777/NodeJS)
-[udemy nodejs](https://www.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11561940#overview)
+1.[link projek](https://github.com/triyono777/NodeJS)<br>
+2.[udemy nodejs](https://www.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11561940#overview)<br>
 The log of my #100DaysOfCode challenge . Started on [Senin, 7 September 2020].
 
 ## Log 
 ### R1D3
+[Senin, 10 September 2020]<br>
 materi ke 37
 hari ini masih belajar basic banget n hard way 😊, redirect route, parsing request body, perbedaan sync n async,Buffer concat, big picture of node.js
 
