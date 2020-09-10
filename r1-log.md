@@ -1,7 +1,7 @@
 # #100DaysOfCode Log - Round 1 - [Triyono]
 # Node.js 
 [link projek](https://github.com/triyono777/NodeJS)
-[udemy nodejs] (https://www.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11561940#overview)
+[udemy nodejs](https://www.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11561940#overview)
 The log of my #100DaysOfCode challenge . Started on [Senin, 7 September 2020].
 
 ## Log 
